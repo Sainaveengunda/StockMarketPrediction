@@ -6,9 +6,16 @@ This project leverages time series analysis techniques, including ARIMA and LSTM
 Key Features:
 
 Time Series Analysis: Explore our application of ARIMA and LSTM models for predictive stock market analysis.
+
 Python-Powered: The entire project is built in Python, demonstrating proficiency in data analysis and machine learning.
+
 Getting Started: Check our documentation for instructions on running the analysis and making predictions.
+
+
+
 Contribute: We welcome contributions and feedback. Feel free to collaborate and enhance this project.
+
+
 How to Use:
 
 Clone this repository.
